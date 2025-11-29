@@ -216,5 +216,5 @@ dotnet test
 
 
 
-Santiago Henao - \[Tu GitHub/LinkedIn]
+Santiago Henao
 
